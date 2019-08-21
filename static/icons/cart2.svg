@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 41.41 31.06"><defs>
+<style>.cls-1,.cls-2,.cls-4{fill:none;stroke:#333;stroke-width:2px;}.cls-1,.cls-2{stroke-miterlimit:1
+0;}.cls-2,.cls-4{stroke-linecap:round;}.cls-3{fill:#333;}.cls-4{stroke-linejoin:round;}</style></defs><title>cart2</title>
+<g id="Слой_2" data-name="Слой 2"><g id="Слой_1-2" data-name="Слой 1">
+
+<polyline class="cls-1" points="31.06 27.9 15.24 27.9 13.66 21.57"/>
+<line class="cls-2" x1="7.71" y1="6.11" x2="40.41" y2="6.11"/>
+<circle class="cls-3" cx="15.24" cy="27.9" r="3.16"/>
+<circle class="cls-3" cx="31.06" cy="27.9" r="3.16"/>
+<circle class="cls-3" cx="13.66" cy="10.49" r="1.58"/>
+<circle class="cls-3" cx="19.99" cy="10.49" r="1.58"/>
+<circle class="cls-3" cx="26.32" cy="10.49" r="1.58"/>
+<circle class="cls-3" cx="16.82" cy="16.82" r="1.58"/>
+<circle class="cls-3" cx="23.15" cy="16.82" r="1.58"/>
+<circle class="cls-3" cx="29.48" cy="16.82" r="1.58"/>
+<circle class="cls-3" cx="32.65" cy="10.49" r="1.58"/>
+<polyline class="cls-4" points="1 1 5.75 1 13.66 21.57 34.23 21.57 40.41 6.11"/>
